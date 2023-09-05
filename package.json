@@ -1,0 +1,14 @@
+{
+  "name": "typescript-hw",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.1"
+  },
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
